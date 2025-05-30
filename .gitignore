@@ -1,0 +1,24 @@
+# Data directory
+data/
+
+# Model checkpoints and saved models
+*.pt
+*.pth
+*.ckpt
+*.model
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 
